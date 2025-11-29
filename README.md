@@ -1,4 +1,4 @@
-![alt text](image-2.png)
+<img width="201" height="204" alt="image-2" src="https://github.com/user-attachments/assets/afa742f3-5af8-4222-9e41-0026339531f6" />
 
 Name: Roman  
 Age: 42  
